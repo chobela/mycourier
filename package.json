@@ -1,0 +1,27 @@
+{
+  "name": "pcourier",
+  "version": "1.0.0",
+  "description": "Courier Web App for Pareza",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chobela/courier.git"
+  },
+  "keywords": [
+    "Courier",
+    "Pareza"
+  ],
+  "author": "Chobela Kakumbi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chobela/courier/issues"
+  },
+  "homepage": "https://github.com/chobela/courier#readme",
+  "dependencies": {
+    "admin-lte": "^3.0.5",
+    "grunt": "^1.2.1"
+  }
+}
